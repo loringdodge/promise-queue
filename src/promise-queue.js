@@ -1,7 +1,5 @@
 var Q = require('q');
 
-"use strict";
-
 var PromiseQueue = function (){
   this._queue = [];
   this._pause = false;
