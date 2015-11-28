@@ -1,5 +1,5 @@
 {
-  "name": "browserify-starter-kit",
+  "name": "promise-queue",
   "version": "1.0.0",
   "description": "",
   "main": "promise-queue.js",
@@ -13,7 +13,8 @@
     "promise",
     "javascript",
     "queue",
-    "async"
+    "async",
+    "q"
   ],
   "license": "MIT",
   "devDependencies": {
